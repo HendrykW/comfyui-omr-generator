@@ -1,4 +1,5 @@
-<img width="979" height="521" alt="texture_workflow_thumb_v2" src="https://github.com/user-attachments/assets/cdf8dfb2-88bd-42d9-9b82-df90137bd1c1" />
+
+<img width="490" height="140" alt="texture_workflow_headline" src="https://github.com/user-attachments/assets/ffed8f59-749a-4f05-8f41-e3daffbfc8ee" />
 
 # ComfyUI → Unreal Texture Workflow
 A simple ComfyUI workflow that converts a single base texture into Unreal Engine–ready maps.
