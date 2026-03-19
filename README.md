@@ -1,7 +1,7 @@
 
 <img width="490" height="140" alt="texture_workflow_headline" src="https://github.com/user-attachments/assets/ffed8f59-749a-4f05-8f41-e3daffbfc8ee" />
 
-# ComfyUI → Unreal Texture Workflow
+# 
 A simple ComfyUI workflow that converts a single base texture into Unreal Engine–ready maps.
 This setup builds on chord node originally developed by Ubisoft: https://github.com/ubisoft/ubisoft-laforge-chord
 
